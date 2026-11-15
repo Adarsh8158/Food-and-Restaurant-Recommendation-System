@@ -1,0 +1,3 @@
+"""
+FoodWise Package
+"""
